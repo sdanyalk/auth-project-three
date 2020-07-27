@@ -3,7 +3,7 @@
 # Authentication for Project Three
 This project showcases how to add authentication using `Auth0` library. Template for this project is the starter template given for Project Three.
 
-`Auth0` allows you to add authentication to your React application quickly and to gain access to user profile information. It allows to add authentication to many other platforms. More detauls [here](https://auth0.com/docs/quickstarts).
+`Auth0` allows you to add authentication to your React application quickly and to gain access to user profile information. It allows to add authentication to many other platforms. More details [here](https://auth0.com/docs/quickstarts).
 
 ---
 
@@ -54,14 +54,16 @@ To show this, I've published this project as a github *template* project. On the
 
 ## Notes 
 - Auth0 has good documentation to setup authentication quickly,
+
 - Auth0 allows to add authentication to different platforms. More information [here](https://auth0.com/docs/quickstarts).
+
 - I followed the following documentation and example(s) to create this project:
 
-1. https://auth0.com/docs/quickstart/spa/react
+- https://auth0.com/docs/quickstart/spa/react
 
-1. https://auth0.com/blog/complete-guide-to-react-user-authentication/#Connect-React-with-Auth0
+- https://auth0.com/blog/complete-guide-to-react-user-authentication/#Connect-React-with-Auth0
 
-1. https://github.com/auth0-samples/auth0-react-samples/tree/master/Sample-01
+- https://github.com/auth0-samples/auth0-react-samples/tree/master/Sample-01
 
 - DO NOT upload any of the `Auth0` configurations to github.
 
@@ -81,7 +83,7 @@ This project is deployed on Heroku. The link to web app is:
 
 ## Nice to have
 
-- [x] Secure the API endpoints by using access token.
+- [ ] Secure the API endpoints by using access token.
 - [ ] Add Jest unit tests.
 
 ---
