@@ -53,7 +53,7 @@ To show this, I've published this project as a github *template* project. On the
 ---
 
 ## Notes 
-- Auth0 has good documentation to setup authentication quickly,
+- Auth0 has really good and easy to follow documentation to setup authentication quickly. They also have video tutorial on their site.
 
 - Auth0 allows to add authentication to different platforms. More information [here](https://auth0.com/docs/quickstarts).
 
