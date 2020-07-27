@@ -7,8 +7,9 @@ const Home = () => {
     const { user, isAuthenticated } = useAuth0();
 
     return (
-        { isAuthenticated?<Profile user = { user } /> : <Guest />
-}
+        <>
+            {isAuthenticated ? <Profile user={user} /> : <Guest />}
+        </>
     );
 };
 
