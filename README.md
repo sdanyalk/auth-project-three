@@ -11,7 +11,7 @@ This project showcases how to add authentication using `Auth0` library. Template
 
 You are most welcome to use this project as a starter code for your project-3. You have my full permission, and blessing.
 
-To show this, I've published this project as a github *template* project. On the top, just before `Clone or download` button you will see a green `Use this template` button. This will allow you to create your own project based off this starter code project. So instead of cloning or forking, that is what I will recommend doing.
+To show this, I've published this project as a github *template* project. On the top, next to `Code` button you will see a green `Use this template` button. This will allow you to create your own project based off this starter code project. So instead of cloning or forking, that is what I will recommend doing.
 
 ---
 
