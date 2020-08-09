@@ -71,6 +71,13 @@ To show this, I've published this project as a github *template* project. On the
 
 - Add `Auth0` configurations to Heroku `Config Vars`.
 
+### UPDATE
+- Added code to get user information from Auth0 for a different route.
+
+- Here is the article I used as a reference:
+
+- https://auth0.com/blog/complete-guide-to-react-user-authentication/#Retrieving-user-information
+
 ---
 
 ## Heroku Deployment
